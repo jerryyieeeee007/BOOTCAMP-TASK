@@ -1,0 +1,90 @@
+.0<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jishnu | Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <nav>
+        <h2 class="logo">Jishnu</h2>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#languages">Languages</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <div class="hero-text">
+        <h1>Hello, I'm <span>Jishnu</span></h1>
+        <h3>Welcome to My Personal Portfolio</h3>
+        <p>
+            I enjoy learning new technologies, creating websites,
+            and expressing my creativity through drawing.
+        </p>
+
+        <a href="#about" class="btn">Explore More</a>
+    </div>
+</section>
+
+<section id="about" class="card">
+    <h2>About Me</h2>
+    <p>
+        My name is <strong>Jishnu</strong>. I am enthusiastic about technology
+        and always eager to improve my skills. I enjoy creating beautiful
+        websites and learning new things every day.
+    </p>
+</section>
+
+<section id="languages" class="card">
+    <h2>Languages Known</h2>
+         
+    <div class="grid">
+        <div class="box">
+            <h3>Tamil</h3>
+            <p>Native Language</p>
+        </div>
+
+        <div class="box">
+            <h3>English</h3>
+            <p>Good Communication Skills</p>
+        </div>
+    </div>
+</section>
+         <p>imghttps://upload.wikimedia.org/wikipedia/commons/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg
+<section id="hobbies" class="card">
+    <h2>My Hobby</h2>
+
+    <div class="grid">
+        <div class="box">
+            <h3>🎨 Drawing</h3>
+            <p>
+                Drawing helps me express my creativity and improve my imagination.
+                I enjoy sketching and creating artwork during my free time.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="card">
+    <h2>Contact</h2>
+
+    <p><strong>Name:</strong> Jishnu</p>
+    <p><strong>Languages:</strong> Tamil, English</p>
+    <p><strong>Hobby:</strong> Drawing</p>
+</section>
+
+<footer>
+    <p>© 2026 Jishnu | Personal Portfolio</p>
+</footer>
+
+</body>
+</html>
